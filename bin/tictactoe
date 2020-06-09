@@ -1,2 +1,2 @@
-@board.new("O")
+@board.new
 play
