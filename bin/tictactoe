@@ -1,6 +1,1 @@
-def tic_tac_toe
-  tic_tac_toe = game
-  game.new
-  game.play
-end
-tic_tac_toe
+tictactoe.new
