@@ -1,2 +1,2 @@
-
-play.new
+TicTacToe.new = game
+play.game
