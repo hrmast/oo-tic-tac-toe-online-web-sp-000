@@ -1,2 +1,2 @@
-Heath = TicTacToe.new = "Heath"
+initialize
 play
