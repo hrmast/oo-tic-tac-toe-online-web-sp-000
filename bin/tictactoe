@@ -1,2 +1,2 @@
 game = TicTacToe.new
-game.play
+play.game
