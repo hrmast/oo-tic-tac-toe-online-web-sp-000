@@ -140,10 +140,7 @@ end
 #  tell the players it ended in a draw
 #end
 def play
-    until over? == true
-      turn
-    end
-
+    turn until over?
     if won?
       puts "Congratulations #{winner}!"
     else draw?
