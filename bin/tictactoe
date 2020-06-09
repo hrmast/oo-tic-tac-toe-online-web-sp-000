@@ -1,2 +1,2 @@
-TicTacToe.new = game
-return game
+game = TicTacToe.new
+play.game
