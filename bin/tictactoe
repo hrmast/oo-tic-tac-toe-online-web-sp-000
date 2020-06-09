@@ -1,2 +1,1 @@
-TicTacToe.new
-play
+Heath = TicTacToe.new = "Heath"
